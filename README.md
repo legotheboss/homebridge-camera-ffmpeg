@@ -6,7 +6,7 @@ ffmpeg plugin for [Homebridge](https://github.com/nfarina/homebridge). Optimized
 
 1. Install ffmpeg on your Raspberry Pi.
     
-    a. Download this package: `sudo wget goo.gl/gMGA81 -O ffmpeg.deb`
+    a. Download this package: `sudo wget goo.gl/gMGA81 -O ffmpeg.deb` <-- the URL is broken
     
     b. Install this package: `sudo dpkg -i ffmpeg.deb`
     
